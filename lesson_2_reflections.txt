@@ -1,2 +1,6 @@
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would allow to me make experimental versions of the code i was working with, while maintaining a master working copy. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows a space to specify exactly which components of your repository you would like to include in your commit. 
+
