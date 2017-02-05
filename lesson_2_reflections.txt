@@ -1,0 +1,2 @@
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would allow to me make experimental versions of the code i was working with, while maintaining a master working copy. 

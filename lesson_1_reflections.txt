@@ -1,0 +1,14 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Pretty cool. Found out you can use diff -u oldfile newfile to compare two files. 
+This should help debugging between versions go much more smoothly in the future! 
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+It is useful to never worry about having to save. 
+But manually saving gives you the control to logically split up the work you do into the differen save versions. 
+
+
