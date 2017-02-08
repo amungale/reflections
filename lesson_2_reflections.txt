@@ -6,3 +6,12 @@ The staging area allows a space to specify exactly which components of your repo
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can use git diff to see what changes you have made from your working directory, and git diff --staged to compare your staging area and most recent commit. This will allow you verify that you have only made one logical change when commiting. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches help organize different versions of a file. If I want to keep two different versions, I can split them into branches and make changes in each of them respectively. 
+
+How do the diagrams help you visualize the branch structure?
+Diagrams can help make sense of the versions and updates to your working file, and understand how to move forward. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We were able to take the asteroids game with coins and the asteroids game with color, and merge them into an asteroids game with coins and color.
